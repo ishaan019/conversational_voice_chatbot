@@ -59,7 +59,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # api_key = os.getenv("openai_api_key")
-api_key = "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"
+api_key = "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"
 
 client = OpenAI(api_key=api_key)
 
